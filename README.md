@@ -4,12 +4,14 @@
   Developer and osu player.<br>
   Random projects, ports, and prolly questionable ideas live here.
 </p>
-
-<h2 align="center">✨my links✨</h2>
+<p align="center">why not add a hoshino image</p>
 
 <p align="center">
-  <img src="https://github.com/komiesp32/komiesp32/blob/main/1280px-Memorial_Lobby_Hoshino_(Swimsuit).webp" width="100"/>
+  <img src="https://github.com/komiesp32/komiesp32/blob/main/1280px-Memorial_Lobby_Hoshino_(Swimsuit).webp" width="200"/>
 </p>
+<h2 align="center">✨my links✨</h2>
+
+
 
 <p align="center">
   <a href="https://www.youtube.com/@komiesp32">
