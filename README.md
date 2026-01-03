@@ -9,10 +9,10 @@
 
 <!-- Social Row -->
 <p align="center">
-  <a href="(https://www.youtube.com/@komiesp32)">
+  <a href="https://www.youtube.com/@komiesp32">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
-  <a href="(https://steamcommunity.com/id/alexbmng/)">
+  <a href="https://steamcommunity.com/id/alexbmng/">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
   </a>
 </p>
