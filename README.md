@@ -5,7 +5,7 @@
   Random projects, ports, and prolly questionable ideas live here.
 </p>
 
---my links
+<h2 align="center">✨my links✨</h2>
 
 <p align="center">
   <a href="https://www.youtube.com/@komiesp32">
@@ -17,6 +17,6 @@
 </p>
 
 
-<p align="center">
+<h align="center">
   <h3>Thanks for stalking my profile🗿🤞🏻</h3>
-</p>
+</h>
