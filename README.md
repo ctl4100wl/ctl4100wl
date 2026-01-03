@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**komiesp32/komiesp32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">ryan</h1>
+<p align="center">
+  Developer and content creator.<br>
+  Random projects, ports, and probably questionable ideas live here.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Social Row -->
+<p align="center">
+  <a href="(https://www.youtube.com/@komiesp32)">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="(https://steamcommunity.com/id/alexbmng/)">
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Thanks for stalking my profile🗿🤞🏻</i>
+</p>
