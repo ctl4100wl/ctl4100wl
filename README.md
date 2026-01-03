@@ -8,6 +8,10 @@
 <h2 align="center">✨my links✨</h2>
 
 <p align="center">
+  <img src="https://github.com/komiesp32/komiesp32/blob/main/1280px-Memorial_Lobby_Hoshino_(Swimsuit).webp" width="100"/>
+</p>
+
+<p align="center">
   <a href="https://www.youtube.com/@komiesp32">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
@@ -17,6 +21,6 @@
 </p>
 
 
-<h align="center">
-  <h3>Thanks for stalking my profile🗿🤞🏻</h3>
-</h>
+
+  <h3 align="center">Thanks for stalking my profile🗿🤞🏻</h3>
+
