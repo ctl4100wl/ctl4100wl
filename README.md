@@ -1,5 +1,5 @@
 <h1 align="center">ryan</h1>
-<h3>he/him, age: around 15-20 (no specifics) straight, cold</h3>
+<h3 align="center">he/him, age: around 15-20 (no specifics) straight, cold</h3>
 <p align="center">
   Developer and osu player.<br>
   Random projects, ports, and prolly questionable ideas live here.
