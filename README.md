@@ -4,8 +4,7 @@
  C++ Developer and osu player.<br>
   Random projects, ports, and prolly questionable ideas live here.
 </p>
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=komiesp32)](https://github.com/komiesp32/github-readme-stats)
-<p align="center">*why not add a hoshino image</p>
+
 
 <p align="center">
   <img src="https://github.com/komiesp32/komiesp32/blob/main/1280px-Memorial_Lobby_Hoshino_(Swimsuit).webp" width="200"/>
