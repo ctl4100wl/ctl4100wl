@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/komiesp32/komiesp32/blob/main/1280px-Memorial_Lobby_Hoshino_(Swimsuit).webp" width="200"/>
+  //<img src="https://github.com/komiesp32/komiesp32/blob/main/1280px-Memorial_Lobby_Hoshino_(Swimsuit).webp" width="200"/>
 </p>
 
 <h2 align="center">✨my links✨</h2>
