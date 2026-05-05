@@ -4,7 +4,7 @@
  C++ Developer and osu player.<br>
   Random projects, ports, and prolly questionable ideas live here.
   
- Sometimes working on kindles, or AOSP
+   Sometimes working on kindles, or AOSP
 </p>
 
 
