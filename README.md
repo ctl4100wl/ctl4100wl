@@ -2,7 +2,7 @@
 <h3 align="center">he/him</h3>
 <p align="center">
  C++ Developer and osu player.<br>
-  Random projects, ports, and prolly questionable ideas live here.
+  ESP32 projects, ports.
  Sometimes working on kindles, or AOSP
 </p>
 
@@ -10,7 +10,7 @@
 <p align="center">
 </p>
 
-<h2 align="center">✨my links✨</h2>
+<h2 align="center">my links</h2>
 
 <p align="center">
   <a href="https://www.youtube.com/@komiesp32">
@@ -23,4 +23,4 @@
 
 <hr style="margin-top:20px; margin-bottom:20px;">
 
-<h3 align="center">Thanks for stalking my profile🗿🤞🏻</h3>
+<h3 align="center">Thanks for stalking my profile</h3>
