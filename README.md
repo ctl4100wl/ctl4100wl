@@ -2,8 +2,7 @@
 <h3 align="center">he/him</h3>
 <p align="center">
  C++ Developer and osu player.<br>
-  ESP32 projects, ports.
- Sometimes working on kindles, or AOSP
+  ESP32 projects, linux ports.
 </p>
 
 
@@ -23,4 +22,4 @@
 
 <hr style="margin-top:20px; margin-bottom:20px;">
 
-<h3 align="center">Thanks for stalking my profile</h3>
+
